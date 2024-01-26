@@ -1,9 +1,9 @@
 # Ashok_Sanap
-![Alt text](https://github.com/Ashok-Sanap/Ashok_Sanap/blob/feature_doc/icon/linked-in.png) [Ashok Sanap](https://www.linkedin.com/in/ashok-s-sanap/) ![](https://github.com/Ashok-Sanap/Ashok_Sanap/blob/feature_doc/icon/email-icon.png) sanapashoks@gmail.com 
+![Alt text](icon/linked-in.png) [Ashok Sanap](https://www.linkedin.com/in/ashok-s-sanap/) ![](icon/email-icon.png) sanapashoks@gmail.com 
 
-![](https://github.com/Ashok-Sanap/Ashok_Sanap/blob/feature_doc/icon/contact.png)  +91–9579445542 /+91-7774062622
+![](icon/contact.png)  +91–9579445542 /+91-7774062622
 
-![](https://github.com/Ashok-Sanap/Ashok_Sanap/blob/feature_doc/icon/address.png) Pune, Maharashtra, India-411014
+![](icon/address.png) Pune, Maharashtra, India-411014
 
 [<a href="https://github.com/Ashok-Sanap/Ashok_Sanap/blob/main/Resume/Ashok_Sanap_EmbeddedLeadEngineer_11%2BYears.pdf" download>Resume</a>]
 ## 
