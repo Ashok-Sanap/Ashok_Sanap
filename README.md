@@ -98,8 +98,8 @@ development, it is in my opinion the best combination of logical programming and
 
 
 ## Profiles
-- [keshav-singh-development-profile](http://keshav-singh-dev.ap-south-1.elasticbeanstalk.com/)
-- [keshav-singh-production-profile](http://keshav-singh-prod.ap-south-1.elasticbeanstalk.com/)
+- [Ashok-Sanap-development-profile](http://keshav-singh-dev.ap-south-1.elasticbeanstalk.com/)
+- [Ashok-Sanap-production-profile](http://keshav-singh-prod.ap-south-1.elasticbeanstalk.com/)
 
 <!-- start work experience section -->
 <details>
