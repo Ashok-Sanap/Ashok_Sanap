@@ -10,36 +10,46 @@
 ## Profile Summary
 A results-oriented **Embedded Firmware professional** with **11+** years of expertise in designing and developing specializing in Safety Sensors, Actuators & Interlocks for Industrial Automation, Home Appliances, and Gamma Radiation measurement.
 
-
 <details>
 <summary>
-  More stuff about me
+  <b>More stuff about me :point_right:</b>
 </summary>
 
 ## Quick overview
 
+<details>
+<summary>
+  <b>What I did :point_right:</b>
+  
+  ### 
+</summary>
+  
+- Acquired valuable international exposure through multiple engagements in **Germany**.
+- Demonstrates a strong commitment to meeting stringent **IEC 61508:2012** standards, emphasizing reliability and fault tolerance.
+- Implemented **fault detection** and **diagnostic features** to attain and sustain Safety Integrity Levels **(SIL)**.
+- Contributed to projects through various phases of the Software Development Life Cycle **(SDLC)**, from Requirement and Project Kickoff to Bench testing and Product sustain in the field.
+- Proficient in **Agile-Scrum methodology** for effective software development.
+- Spearheaded the development of a robust bootloader for **STM32G071RB**(Cortex-M0+) and **R7FA2E1A9**(Cortex-M23) microcontrollers, showcasing expertise in low-level programming and system initialization.
+- In-depth knowledge of industry standards, including **MISRA C (2012-3rd Edition)**, and the ability to ensure compliance with coding guidelines during the Unit Testing Phase.
+- Proficient in **Board Bring up**, with the capability to navigate and **Interpret complex schematics** effectively.
+- Skilled in diagnosing hardware issues and identifying bugs, ensuring a streamlined and efficient troubleshooting process.
+- Additionally, well-versed in utilizing a versioning tools like **GitHub**, **SVN** to facilitate collaborative development and maintain code integrity.
+  
+</details>
 
-#### GitHub stats 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=filiptronicek&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
-</a>  
+## Technical Expertise:
+- Microcontroller Expertise: Experienced in driver development for various microcontrollers, including STM32G071RB (Cortex M0+), Renesas R7FA2E1A9 (Cortex-M23), Rx210 Family, and Freescale MKE04Z128 (Cortex M0+).
+- Bootloader Development: Proficient in the development and integration of bootloaders for 32-bit microcontrollers.
+- Prototyping project with Raspberry Pi Zero, ESP32 Development Board as Smart Bed to weight measurement of patient completed.
 
+## Professional Recognitation:
 
- (also from a project I have contributed to, [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
-* Latest blog post: <a class="post" href="https://blog.trnck.dev/365-gitpods/">"365 'podder days" (published on August 20, 2022)</a>
-
-Biggest supporters of my OSS work ($25 or more in [my tiers](https://github.com/sponsors/filiptronicek/)):
-* [Brian Douglas](https://github.com/bdougie) 
-* [Kyle Daigle](https://github.com/kdaigle)
-
-
-### What I do
-
-I do Open Source. In fact, I do Open Source so much, that 95% of my work on
-GitHub is free and open to everyone. I am really passionate about doing web
-development, it is in my opinion the best combination of logical programming and
-(sometimes) beautiful design.
-
+1. **Schmersal Global Competence Center (SGCC), Pune:**
+- Best Performer Award(2023) at SGCC for completion of Bootloader Project within Planned Timeline.
+- Special Acheivement Award (2024) at SGCC for efficeint executation project with handling multiple responsibilities.
+2. **Whirlpool of India Ltd, Pune:**
+- Constellation Award for quick project execution within planned Project Timelines.
+- Star Employee Award for developing quality software from scratch.
 ## My skills 📜
 
 ### Web technologies
@@ -93,13 +103,16 @@ development, it is in my opinion the best combination of logical programming and
 | ------------------ | ------------------------------------------------------ | ------------------------------------------------ |
 | FFO                | Fífa Friendly Office (a place where I can work safely) | Idea by [@aellopos](https://github.com/aellopos) |
 
+## Soft Skills:
+- Effective and strong communicator with stakeholders.
+- System Requirement, Software Requirement creation, Strong Problem Solving.
+- Technical Leader, Collaborative team player, Out of the Box thinker.
+- A commitment to staying updated with the latest technologies and methodologies in the embedded systems field.
+- Task identification and delegation to Team members, Prioritizing Task and Issues.
+- Effective multiple Task Handling capabilities.
+- Individual Contributor.
 </details>
 
-
-
-## Profiles
-- [Ashok-Sanap-development-profile](http://keshav-singh-dev.ap-south-1.elasticbeanstalk.com/)
-- [Ashok-Sanap-production-profile](http://keshav-singh-prod.ap-south-1.elasticbeanstalk.com/)
 
 <!-- start work experience section -->
 <details>
