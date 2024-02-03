@@ -12,7 +12,7 @@ A results-oriented **Embedded Firmware professional** with **11+** years of expe
 
 <details>
 <summary>
-  <b>More stuff about me :point_right:</b>
+  <b>More stuff about me 🤓 :point_right:</b>
 </summary>
 
 ## Quick overview
@@ -103,7 +103,7 @@ A results-oriented **Embedded Firmware professional** with **11+** years of expe
 
 <!-- start work experience section -->
 <details>
-<summary><b> My Work Experience :point_right: </b></summary>
+<summary><b> My Work Experience 👨‍💼 :point_right: </b></summary>
 &nbsp; &nbsp; &nbsp;
 
 <table>
@@ -153,7 +153,7 @@ A results-oriented **Embedded Firmware professional** with **11+** years of expe
 
 <!-- start work project section -->
 <details>
-<summary><b> My Work Project :point_right:</b></summary>
+<summary><b> My Work Project 🏗️ :point_right:</b></summary>
   &nbsp; &nbsp; &nbsp;
 <table>
   <thead>
