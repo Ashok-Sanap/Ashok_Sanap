@@ -115,46 +115,34 @@ development, it is in my opinion the best combination of logical programming and
   </thead>
   <tbody>
     <tr>
-      <td><b><a href="https://www.marlabs.com/">Marlabs</a> </b></td>
-      <td>Software Engineer</td>
-      <td>.Net Core (AWS, Microservice(Azure)) Devloper</td>
-      <td>JULY 2023 - Present</td>
+      <td><b><a href="https://www.schmersal.in/company/schmersal-global-competence-center">Schmersal Global Competence Center</a> </b></td>
+      <td>Embedded Tech Lead</td>
+      <td>Embedded C/C++,Dual Bootoader,Safety PlatformDevelopment,Safety Devices, SWAT Member, SysRS, SWRS, SWAS, Development, Delegation  </td>
+      <td>DEC 2020 - Present</td>
     </tr>
      <tr>
-      <td><b><a href="https://www.unthinkable.co/">Unthinkable Solution LLP</a> </b></td>
+      <td><b><a href="https://agiliad.com/">Agiliad Technologies </a> </b></td>
       <td>Associate - IT</td>
       <td>.Net Core (AWS, Microservice(Azure)) Devloper</td>
       <td>January 2023 - JULY 2023</td>
     </tr>
     <tr>
-      <td><b><a href="https://www.unthinkable.co/">Unthinkable Solution LLP</a> </b></td>
+      <td><b><a href="https://www.whirlpoolcorp.com/">Whirlpool India Ltd</a> </b></td>
       <td>Junior Associate - IT</td>
       <td>.Net Core (AWS, Microservice(Azure)) Devloper</td>
       <td>August 2021 - January 2023</td>
     </tr>
   	<tr>
-      <td><b><a href="https://www.unthinkable.co/">Unthinkable Solution LLP</a> </b></td>
+      <td><b><a href="https://www.eeplindia.com/">Electronet Equipments Pvt Ltd</a> </b></td>
       <td>Intern</td>
       <td>Learning and practising of ASP.NET,C#</td>
       <td>January 2021 - August 2021</td>
     </tr>
     <tr>
-      <td><b><a href="https://www.chegg.com/">Chegg</a> </b></td>
+      <td><b>Signal Corporation</b></td>
       <td>Expert</td>
       <td>Solving questions.</td>
       <td>October 2020 - January 2021</td>
-    </tr>
-    <tr>
-      <td><b>Procode team</b></td>
-      <td>College Activity</td>
-      <td>Setting Problems ranging from easy to medium and hard levels</td>
-      <td>March 2020 - April 2020</td>
-    </tr>
-     <tr>
-      <td><b><a href="https://www.atg.world/">ATG</a></b></td>
-       <td>Frontend Developer Intern</td>
-      <td>Working on frontend of website</td>
-      <td>July 2019 - August 2019</td>
     </tr>
   </tbody>
 </table>
