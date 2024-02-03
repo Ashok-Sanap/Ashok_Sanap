@@ -37,71 +37,56 @@ A results-oriented **Embedded Firmware professional** with **11+** years of expe
   
 </details>
 
-## Technical Expertise:
+## My Technical Skills
+|Skill|Details|
+|:----|:----|
+|Programming Languages:|Embedded C, C, Python(Beginner)|
+|Development Tools, Editors:|IAR, Eclipse, Keil, GCC, GDB, MPLAB, Vim, VS Code|
+|Hardware Platforms/ Microcontrollers:|Micro-controllers like Renesas Rx210, NXP MKE04Z128, Stm32F446RE, R7FA2E1A9, STM32G071RB, Raspberry Pi ZeroW, HC-05 BT Module, ESP8266, ESP32.|
+|OS Platforms:|Windows, Linux/Unix,|
+|Hardware Debuggers:|Segger - JLink, Renesas – E1/E20 Emulator, PICKIT™ 3|
+|Development Methodologies:|Agile SCRUM|
+|Version Control Tools|SVN, IBM-RTC, GitHub, PTC-MKS|
+|Static code analysis tools|PC-Lint, Parasoft, Axivion|
+|Unit Testing Tool|Tessy(Beginner)|
+|Formatting Tools|AStyler|
+|Requirement/Defect tracking tool|IBM-RTC, Polarion, JIRA|
+|Protocol used|SPI, I2C, UART, RS232|
+|Coding Standards|MISRA-C 2012|
+|Measurement tools|DSO(Tektronix, Rigol), Beagle I2C/SPI analyzer(TP320121),
+|LogicAnalyzer| Pico-scope(5442D PC USB)|
+|Certifications|Electrical safety, Practical Hazardous area,Functional Safety IEC 61508:2010.|
+|Other Skills|Linker Scripts|
+
+
+## Technical Expertise
 - Microcontroller Expertise: Experienced in driver development for various microcontrollers, including STM32G071RB (Cortex M0+), Renesas R7FA2E1A9 (Cortex-M23), Rx210 Family, and Freescale MKE04Z128 (Cortex M0+).
 - Bootloader Development: Proficient in the development and integration of bootloaders for 32-bit microcontrollers.
 - Prototyping project with Raspberry Pi Zero, ESP32 Development Board as Smart Bed to weight measurement of patient completed.
 
-## Professional Recognitation:
-
+## Professional Recognitation
 1. **Schmersal Global Competence Center (SGCC), Pune:**
 - Best Performer Award(2023) at SGCC for completion of Bootloader Project within Planned Timeline.
 - Special Acheivement Award (2024) at SGCC for efficeint executation project with handling multiple responsibilities.
 2. **Whirlpool of India Ltd, Pune:**
 - Constellation Award for quick project execution within planned Project Timelines.
 - Star Employee Award for developing quality software from scratch.
-## My skills 📜
-
-### Web technologies
-
-- JavaScript
-  ([LinkedIn Assesments Certified](https://www.linkedin.com/in/filiptronicek/))
-- TypeScript
-- Next.js
-- Prisma
-- HTML, CSS
-  ([Microsoft Certified](https://www.youracclaim.com/badges/6d5a4a58-c895-4d7e-a725-db1441e9d979/public_url))
-- SCSS
-- Node.js ([LinkedIn Assesments Certified](https://www.linkedin.com/in/filiptronicek/))
-- Deno
-- WordPress
-  ([LinkedIn Assesments Certified](https://www.linkedin.com/in/filiptronicek/))
-- PHP
-- MySQL
-- Microsoft Azure ([AZ 900 Certification](https://www.credly.com/badges/1da5ef87-dc8f-4aeb-8870-c19d0e020895/public_url))
-
-### Application Development
-
-- Python ([Microsoft Certified](https://www.youracclaim.com/badges/46b260a8-ef2c-41a3-9f61-aa0920eab84a/public_url))
-- C++ (sort of)
-
-### Productivity utilities
-
-- Microsoft Office - I am a Certified
-  [Excel](https://www.youracclaim.com/badges/36154164-82b5-4fbf-b65c-c152af720245/public_url)
-  and
-  [Word](https://www.youracclaim.com/badges/6f4eee1d-3379-4a8b-b846-35762708d4b8/public_url)
-  Expert
 
 ### Languages 🌐
 
-| Language      | Proficiency                                                               |
-| ------------- | ------------------------------------------------------------------------- |
-| English (duh) | C2 ([EFSET certified](https://www.efset.org/cert/5P5Pp1))                 |
-| German        | B1 ([DSD Certificate](https://www.goethe.de/en/spr/kup/prf/prf/gb1.html)) |
-| Czech         | Native language                                                           |
+| Language      | Proficiency       |
+| ------------- | ------------      |
+| English       | Proefficient      |
+| German        | A1                |
+| Marathi       | Native language   |
+| Hindi         | Proefficient      |
 
 ## What I'm currently learning 📚
 
-- Diving into VS Code's code base
-- Typescript's magic
-- Rust's blazing-fastness
-
-## My own dictionary 📕:
-
-| Word / abreviation | Meaning                                                | Note                                             |
-| ------------------ | ------------------------------------------------------ | ------------------------------------------------ |
-| FFO                | Fífa Friendly Office (a place where I can work safely) | Idea by [@aellopos](https://github.com/aellopos) |
+- Embarking on the Java Odyssey
+  
+  [//]: # (Typescript's magic)
+  [//]: # (Rust's blazing-fastness)
 
 ## Soft Skills:
 - Effective and strong communicator with stakeholders.
