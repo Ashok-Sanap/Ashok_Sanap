@@ -117,32 +117,32 @@ development, it is in my opinion the best combination of logical programming and
     <tr>
       <td><b><a href="https://www.schmersal.in/company/schmersal-global-competence-center">Schmersal Global Competence Center</a> </b></td>
       <td>Embedded Tech Lead</td>
-      <td>Embedded C/C++,Dual Bootoader,Safety PlatformDevelopment,Safety Devices, SWAT Member, SysRS, SWRS, SWAS, Development, Delegation  </td>
+      <td>Embedded C/C++,Dual Bootoader, Firmware, Safety Platform Development, Safety Devices, SWAT Member, Communication Protocol, SysRS, SWRS, SWAS, Development, Delegation, Communication with German Client, Agile SCRUM follows  </td>
       <td>DEC 2020 - Present</td>
     </tr>
      <tr>
       <td><b><a href="https://agiliad.com/">Agiliad Technologies </a> </b></td>
-      <td>Associate - IT</td>
-      <td>.Net Core (AWS, Microservice(Azure)) Devloper</td>
-      <td>January 2023 - JULY 2023</td>
+      <td>Technical Lead</td>
+      <td>EmbeddedC/C++,Linux App Development, System Requirement Undertstanding, Software Requirement Creation, Firmware Development</td>
+      <td>NOV 2019 - DEC 2020</td>
     </tr>
     <tr>
       <td><b><a href="https://www.whirlpoolcorp.com/">Whirlpool India Ltd</a> </b></td>
-      <td>Junior Associate - IT</td>
-      <td>.Net Core (AWS, Microservice(Azure)) Devloper</td>
-      <td>August 2021 - January 2023</td>
+      <td>Sr. Embedded Developer</td>
+      <td>Embedded C Firmware Development, Bootloader Development & Customization, Global Exposure, Platform Development</td>
+      <td>JAN 2016 - NOV 2019</td>
     </tr>
   	<tr>
       <td><b><a href="https://www.eeplindia.com/">Electronet Equipments Pvt Ltd</a> </b></td>
-      <td>Intern</td>
-      <td>Learning and practising of ASP.NET,C#</td>
-      <td>January 2021 - August 2021</td>
+      <td>Embedded Developer</td>
+      <td>Learning Embedded C, Driver development for external ADC, DAC, EEPROM, MODBUS-RTU Stack integration </td>
+      <td>APRIL 2014 - JAN 2016</td>
     </tr>
     <tr>
       <td><b>Signal Corporation</b></td>
-      <td>Expert</td>
-      <td>Solving questions.</td>
-      <td>October 2020 - January 2021</td>
+      <td>Jr Embedded Developer</td>
+      <td>Custom Project Development, Client Visits for Device Comissioning</td>
+      <td>OCT 2012 - APRIL 2014</td>
     </tr>
   </tbody>
 </table>
