@@ -1,4 +1,4 @@
-# Ashok_Sanap
+# Ashok_Sanap 🧑🏻‍💻
 ![Alt text](icon/linked-in.png) [Ashok Sanap](https://www.linkedin.com/in/ashok-s-sanap/) ![](icon/email-icon.png) sanapashoks@gmail.com 
 
 ![](icon/contact.png)  +91–9579445542 /+91-7774062622
@@ -19,7 +19,7 @@ A results-oriented **Embedded Firmware professional** with **11+** years of expe
 
 <details>
 <summary>
-  <b>What I did :point_right:</b>
+  <b>Summery :point_right:</b>
   
   ### 
 </summary>
@@ -37,7 +37,7 @@ A results-oriented **Embedded Firmware professional** with **11+** years of expe
   
 </details>
 
-## My Technical Skills
+## My Technical Skills 👨🏻‍💻
 |Skill|Details|
 |:----|:----|
 |Programming Languages:|Embedded C, C, Python(Beginner)|
@@ -59,12 +59,22 @@ A results-oriented **Embedded Firmware professional** with **11+** years of expe
 |Other Skills|Linker Scripts|
 
 
-## Technical Expertise
+## Technical Expertise 📟
 - Microcontroller Expertise: Experienced in driver development for various microcontrollers, including STM32G071RB (Cortex M0+), Renesas R7FA2E1A9 (Cortex-M23), Rx210 Family, and Freescale MKE04Z128 (Cortex M0+).
 - Bootloader Development: Proficient in the development and integration of bootloaders for 32-bit microcontrollers.
 - Prototyping project with Raspberry Pi Zero, ESP32 Development Board as Smart Bed to weight measurement of patient completed.
 
-## Professional Recognitation
+
+## Soft Skills 🗃️
+- Effective and strong communicator with stakeholders.
+- System Requirement, Software Requirement creation, Strong Problem Solving.
+- Technical Leader, Collaborative team player, Out of the Box thinker.
+- A commitment to staying updated with the latest technologies and methodologies in the embedded systems field.
+- Task identification and delegation to Team members, Prioritizing Task and Issues.
+- Effective multiple Task Handling capabilities.
+- Individual Contributor.
+  
+## Professional Recognitation :trophy:
 1. **Schmersal Global Competence Center (SGCC), Pune:**
 - Best Performer Award(2023) at SGCC for completion of Bootloader Project within Planned Timeline.
 - Special Acheivement Award (2024) at SGCC for efficeint executation project with handling multiple responsibilities.
@@ -87,21 +97,15 @@ A results-oriented **Embedded Firmware professional** with **11+** years of expe
   
   [//]: # (Typescript's magic)
   [//]: # (Rust's blazing-fastness)
-
-## Soft Skills:
-- Effective and strong communicator with stakeholders.
-- System Requirement, Software Requirement creation, Strong Problem Solving.
-- Technical Leader, Collaborative team player, Out of the Box thinker.
-- A commitment to staying updated with the latest technologies and methodologies in the embedded systems field.
-- Task identification and delegation to Team members, Prioritizing Task and Issues.
-- Effective multiple Task Handling capabilities.
-- Individual Contributor.
+  
 </details>
 
 
 <!-- start work experience section -->
 <details>
 <summary><b> My Work Experience :point_right: </b></summary>
+&nbsp; &nbsp; &nbsp;
+
 <table>
   <thead>
     <tr>
@@ -150,6 +154,7 @@ A results-oriented **Embedded Firmware professional** with **11+** years of expe
 <!-- start work project section -->
 <details>
 <summary><b> My Work Project :point_right:</b></summary>
+  &nbsp; &nbsp; &nbsp;
 <table>
   <thead>
     <tr>
