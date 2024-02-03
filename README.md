@@ -5,7 +5,7 @@
 
 ![](icon/address.png) Pune, Maharashtra, India-411014
 
-[<a href="https://github.com/Ashok-Sanap/Ashok_Sanap/blob/main/Resume/Ashok_Sanap_EmbeddedLeadEngineer_11%2BYears.pdf" download>Resume</a>]
+<a href="https://github.com/Ashok-Sanap/Ashok_Sanap/blob/main/Resume/Ashok_Sanap_EmbeddedLeadEngineer_11%2BYears.pdf" download>📋 Resume</a>
 ## 
 ## Profile Summary
 A results-oriented **Embedded Firmware professional** with **11+** years of expertise in designing and developing specializing in Safety Sensors, Actuators & Interlocks for Industrial Automation, Home Appliances, and Gamma Radiation measurement.
