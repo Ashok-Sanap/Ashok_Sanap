@@ -1,5 +1,6 @@
 # Ashok_Sanap 🧑🏻‍💻
-![Alt text](icon/linked-in.png) [Ashok Sanap](https://www.linkedin.com/in/ashok-s-sanap/) ![](icon/email-icon.png) sanapashoks@gmail.com 
+![Alt text](icon/linked-in.png) 
+[Ashok Sanap](https://www.linkedin.com/in/ashok-s-sanap/) ![](icon/email-icon.png) sanapashoks@gmail.com 
 
 ![](icon/contact.png)  +91–9579445542 /+91-7774062622
 
